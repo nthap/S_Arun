@@ -22,8 +22,10 @@ body {
   border-style: double;
   font-size: 10pt;
   /*length: 200;
-  width: 300;*/
-  float: center;
+  width: 300;
+  float: center;*/
+  position: relative;
+  overflow: auto;
 }
 /*
 navigation {
