@@ -21,10 +21,8 @@ body {
   background-color:white;
   border-style: double;
   font-size: 10pt;
-  length: 300;
-  width: 400; 
-  float: center;
-  length: 200;  
+  length: 200;
+  width: 400;  
 }
 
 navigation {
