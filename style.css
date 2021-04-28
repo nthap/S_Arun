@@ -53,6 +53,14 @@ li {
   text-transform: uppercase;
 }
 
+.main-nav {
+    display: flex;
+}
+  
+/*.push {
+    margin-left: auto;
+}*/
+
 header {
   text-align: center;
   margin-top: 5px;
