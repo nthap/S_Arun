@@ -28,6 +28,7 @@ body {
 }
 
 navigation {
+  font-size: 10pt;
   box-sizing: border-box;
   background-color: #3587A4;
   overflow: auto;
