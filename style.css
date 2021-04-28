@@ -12,8 +12,10 @@ body {
   color: white;
   font-family: "Garamond";
   background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
-
+  margin: 0;
+  padding: 0;
 } 
+
 
 .menu {
   background-color:white;
