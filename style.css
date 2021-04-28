@@ -1,0 +1,22 @@
+/*
+<div style="border-style: double; font-size: 20pt;length: 300; width: 400; float: center; length: 200; background-color: white ">-->
+<!--
+body {
+  background-color: #242f44;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+}
+*/
+body {
+  background: linear-gradient(#DEBAC0, #9370DB , #8C93A8, #62466B);
+  color: white;
+  font-family: "Garamond";
+  background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+
+} 
+
+header {
+  text-align: center;
+  margin-top: 5px;
+}
+
