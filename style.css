@@ -16,13 +16,13 @@ body {
 } 
 
 .menu {
+  background-color:white;
   border-style: double;
   font-size: 14pt;
   length: 300;
   width: 400; 
   float: center;
-  length: 200; 
-  background-color:LightGreen;
+  length: 200;  
 }
 
 header {
