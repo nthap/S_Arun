@@ -15,6 +15,16 @@ body {
 
 } 
 
+.menu {
+  border-style: double;
+  font-size: 20pt;
+  length: 300;
+  width: 400; 
+  float: center;
+  length: 200; 
+  background-color:#EEE ">
+}
+
 header {
   text-align: center;
   margin-top: 5px;
